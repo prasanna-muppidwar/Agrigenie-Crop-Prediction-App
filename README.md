@@ -67,7 +67,7 @@ This project is licensed under the MIT License.
 Special thanks to all the contributors, guides who have helped in developing the Open Source Farmer's Crop Prediction App.
 
 ## Credits
-The Entire Projects is our Mini Project in association with Department of Artificial Intelligence , GH Raisoni College of Engineering Nagpur by Pawan Bhayde and Prasanna Muppidwar
+The Entire Projects is our Mini Project in association with Department of Artificial Intelligence , GH Raisoni College of Engineering Nagpur by Pawan Bhayde and Prasanna Muppidwar and Guide Prof. Priyanka Ujjainkar Ma'am
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
