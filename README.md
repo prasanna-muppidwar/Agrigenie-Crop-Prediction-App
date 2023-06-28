@@ -10,7 +10,7 @@ This repository contains the source code for Agrigenie App. The app is designed 
 
 ## Features
 
-- Crop prediction based on input values
+- ML Powered Crop prediction based on Soil testing values
 - Recommended crop suggestions
 - Fertilizer recommendations for selected crops
 - User-friendly interface for easy input and navigation
