@@ -66,5 +66,7 @@ Special thanks to all the contributors who have helped in developing the Farmer'
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
+## Credits
+The Entire Projects is our Mini Project in association with Department of Artificial Intelligence , GH Raisoni College of Engineering Nagpur by Pawan Bhayde and Prasanna Muppidwar
 - Your Name: [Pawan Bhayde]
 - Project Link: GitHub Repository
