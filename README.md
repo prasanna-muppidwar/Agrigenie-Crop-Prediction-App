@@ -1,7 +1,7 @@
 # Agrigenie
 
-<img src="https://github.com/pawanbhayde/agrigenie/assets/82137686/d5d672d1-081b-4b83-91df-810da5c6f1c4" alt="Screenshot 1" height="300" width="500">
-<img src="https://github.com/pawanbhayde/agrigenie/assets/82137686/2951a0f1-a120-45e8-9005-39a1481d9845" alt="Screenshot 2" height="300" width="500">
+<img src="https://github.com/pawanbhayde/agrigenie/assets/82137686/d5d672d1-081b-4b83-91df-810da5c6f1c4" alt="Screenshot 1" height="700" width="350">
+<img src="https://github.com/pawanbhayde/agrigenie/assets/82137686/2951a0f1-a120-45e8-9005-39a1481d9845" alt="Screenshot 2" height="700" width="350">
 
 
 ## Overview
