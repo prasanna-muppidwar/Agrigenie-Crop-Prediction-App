@@ -5,9 +5,9 @@
 
 
 ## Overview
-AgriGenie is a revolutionary mobile application designed to empower farmers by providing accurate predictions for seasonal crops and personalized recommendations for crops and fertilizers. With the aim of maximizing agricultural productivity and sustainability, this app combines advanced data analytics, machine learning algorithms, and agricultural expertise to assist farmers in making informed decisions regarding crop selection and fertilization practices.
+AgriGenie is a ground-breaking mobile application created to empower farmers by offering precise forecasts for seasonal crops and individualized crop and fertilizer suggestions. This software uses cutting-edge data analytics, machine learning algorithms, and agricultural knowledge to help farmers make educated decisions about crop selection and fertilization practices, with the goal of maximizing agricultural output and sustainability.
 
-This repository contains the source code for Agrigenie App. The app is designed to help farmers predict the most suitable crop based on certain input values and provide recommendations for fertilizers. It aims to assist farmers in making informed decisions about crop selection and optimizing agricultural practices.
+This repository contains the source code for the Agrigenie App. The app is designed to help farmers predict the most suitable crop based on certain input values and provide recommendations for fertilizers. It aims to assist farmers in making informed decisions about crop selection and optimizing agricultural practices.
 
 ## Features
 
